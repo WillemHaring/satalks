@@ -1,0 +1,20 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./dist/typescript.js",
+    "watch-and-run": "tsc -w & nodemon -q -w ./dist ./dist/typescript.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.14",
+    "nodemon": "^2.0.6"
+  }
+}
