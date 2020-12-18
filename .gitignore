@@ -1,3 +1,5 @@
 presentation/
 node_modules/
 6. yeoman/
+workspace.code-workspace
+.DS_Store
