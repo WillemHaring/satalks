@@ -2,6 +2,8 @@
 
 ![alt text](https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png "Logo Title Text 1")
 
+[back](../../readme.md)
+
 ### equals
 take care when you use the =, == or === in an if statement, they do not do the same thing!
 

@@ -2,9 +2,11 @@
 
 ![alt text](https://cdn.iconscout.com/icon/free/png-256/typescript-1-1175078.png "Logo Title Text 1")
 
-[typescript tutorial](https://www.typescriptlang.org/)
+[back](../../readme.md)
 
-install typescript:
+this is a good [typescript tutorial](https://www.typescriptlang.org/)
+
+**install typescript:**
 
 `npm install -g typescript` this installs typescript globally, so every project can use it.
 

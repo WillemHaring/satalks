@@ -1,6 +1,7 @@
 ## NPM
 ![alt text](https://cdn.iconscout.com/icon/free/png-256/npm-226037.png "Logo Title Text 1")
 
+[back](../../readme.md)
 
 **to initialize a project**
 `npm init`

@@ -2,6 +2,8 @@
 
 ![alt text](https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png "Logo Title Text 1")
 
+[back](../../readme.md)
+
 **check the version of node you have installed**
 
 `node --version`
